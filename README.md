@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi I´m JM Dclair and I'm a web development enthusiast 👋
+- 🔭 I’m currently working as a computer science teacher in a PFAE project (in Gran Canaria , Canary Island - Spain).
+- 🌱 I’m currently learning Full Stack Web Development.
+- 👯 I’m looking to collaborate on HMTL, CSS... proyects.
+- - 🤔 I’m looking for help with ALL!!! (😄).
 <!--
 **dclair/dclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
