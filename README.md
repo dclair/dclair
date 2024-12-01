@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on HMTL, CSS... proyects.
 - 🤔 I’m looking for help with ALL!!! (😄).
+- 📫 How to reach me: jmdclair@gmail.com
 <!--
 **dclair/dclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
