@@ -1,4 +1,5 @@
-## Hi I´m JM Dclair and I'm a web development enthusiast 👋
+# Hi I´m JM Dclair and I'm a web development enthusiast 👋
+## I´m studying full stack web application development
 - 🔭 I’m currently working as a computer science teacher in a PFAE project (in Gran Canaria , Canary Island - Spain).
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on HMTL, CSS... proyects.
