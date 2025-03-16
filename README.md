@@ -20,8 +20,8 @@
 
   # Mis pages | My pages
   - Spa & Beauty
-    [GitHub Pages](https://dclair.github.io/CSS_spa-beauty/)
-     <img src="assets/Spa&Beauty.jpg" alt="Spa&Beauty" width="610px" height="340px">
+    <img src="assets/Spa&Beauty.jpg" alt="Spa&Beauty" width="610px" height="340px">
+    [Spa&Beauty](https://dclair.github.io/CSS_spa-beauty/)     
   - .
 
 <!--
