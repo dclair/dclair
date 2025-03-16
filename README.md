@@ -18,6 +18,11 @@
 - Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Tablet ](assets/Elearning_land_page_tablet.jpg)
 - Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Desktop ](assets/Elearning_land_page_Desktop.jpg)
 
+  # Mis pages | My pages
+  - Spa & Beauty
+    [GitHub Pages](https://dclair.github.io/CSS_spa-beauty/)
+  - .
+
 <!--
 **dclair/dclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
