@@ -13,7 +13,7 @@
 - Header NFT Marketplace (maquetación CSS para Desktop, no responsive).<img src="assets/NFT_marketplace.jpg" alt="NFT Marketplace" width="610px" height="340px">
 - Header Grocery Store (maquetación CSS para Desktop, no responsive).<img src="assets/Grocery_Store.jpg" alt="Grocery Store" width="610px" height="340px">
 - Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).
-  <img src="assets/Elearning_land_page_smartphone.jpg" alt="Elearning Land Page Mobile" width="110px" height="750px">
+   <img src="assets/Elearning_land_page_smartphone.jpg" alt="Elearning Land Page Mobile" width="110px" height="750px">
 - Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Tablet ](assets/Elearning_land_page_tablet.jpg)
 - Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Desktop ](assets/Elearning_land_page_Desktop.jpg)
 
