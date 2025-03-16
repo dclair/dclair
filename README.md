@@ -17,11 +17,11 @@
 ![Header NFT Marketplace](assets/NFT_marketplace.jpg)
 * Header Grocery Store (maquetación CSS para Desktop, no responsive).
 ![Header Grcery Store](assets/Grocery_Store.jpg)
-* Header Elearning Landing Page (maquetación CSS RESPONSIVE).
+* Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).
 ![Header Elearning Landing Page | Smartphone](assets/Elerning_land_page_smartphone.jpg)
-
+* Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).
 ![Header Elearning Landing Page | Tablet ](assets/Elerning_land_page_tablet.jpg)
-
+* Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).
 ![Header Elearning Landing Page | Desktop](assets/Elerning_land_page_Desktop.jpg)
 
 <!--
