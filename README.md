@@ -18,11 +18,11 @@
 * Header Grocery Store (maquetación CSS para Desktop, no responsive).
 ![Header Grcery Store](assets/Grocery_Store.jpg)
 * Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).
-![Header Elearning Landing Page | Smartphone](assets/Elerning_land_page_smartphone.jpg)
+![Header Elearning Landing Page | Smartphone](assets/Elearning_land_page_smartphone.jpg)
 * Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).
-![Header Elearning Landing Page | Tablet ](assets/Elerning_land_page_tablet.jpg)
+![Header Elearning Landing Page | Tablet ](assets/Elearning_land_page_tablet.jpg)
 * Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).
-![Header Elearning Landing Page | Desktop](assets/Elerning_land_page_Desktop.jpg)
+![Header Elearning Landing Page | Desktop](assets/Elearning_land_page_Desktop.jpg)
 
 <!--
 **dclair/dclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
