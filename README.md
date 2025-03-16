@@ -8,20 +8,23 @@
 
 ## Mis primeros proyectos de aprendizaje CSS | My first CSS learning proyects
 - Header Bussines Agency (maquetación CSS para Desktop, no responsive).
+  
 <img src="assets/header_bussines_agency.jpg" alt="Bussines Agency" width="610px" height="340px">
 - Header Creative Agency(maquetación CSS para Desktop, no responsive).
+
 <img src="assets/creative_agency.jpg" alt="Creative Agency" width="610px" height="340px">
 - Header Coworking Space (maquetación CSS para Desktop, no responsive).
+
 <img src="assets/coworking_space.jpg" alt="Coworking Space" width="610px" height="340px">
 - Header NFT Marketplace (maquetación CSS para Desktop, no responsive).
 <img src="assets/NFT_marketplace.jpg" alt="NFT Marketplace" width="610px" height="340px">
-* Header Grocery Store (maquetación CSS para Desktop, no responsive).
+- Header Grocery Store (maquetación CSS para Desktop, no responsive).
 <img src="assets/Grocery_Store.jpg" alt="Grocery Store" width="610px" height="340px">
-* Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).
+- Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).
 <img src="assets/Elearning_land_page_smartphone.jpg" alt="Elearning Land Page Mobile" width="110px" height="750px">
-* Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).
+- Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).
 ![Header Elearning Landing Page | Tablet ](assets/Elearning_land_page_tablet.jpg)
-* Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).
+- Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).
 <img src="assets/Elearning_land_page_Desktop.jpg" alt="Elearning land page Desktop." width="610px" height="340px">
 
 <!--
