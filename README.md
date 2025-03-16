@@ -19,7 +19,8 @@
 ![Header Grcery Store](assets/Grocery_Store.jpg)
 
 * Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).
-![Header Elearning Landing Page | Smartphone](assets/Elearning_land_page_smartphone.jpg)
+<img src="assets/Elearning_land_page_smartphone.jpg" alt="Descripción" width="110px" height="750px">
+
 * Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).
 ![Header Elearning Landing Page | Tablet ](assets/Elearning_land_page_tablet.jpg)
 * Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).
