@@ -7,7 +7,7 @@
 - 📫 How to reach me: jmdclair@gmail.com
 
 ## Mis primeros proyectos de aprendizaje CSS | My first CSS learning proyects
-- Header Bussines Agency (maquetación CSS para Desktop, no responsive).</sumary><img src="assets/header_bussines_agency.jpg" alt="Bussines Agency" width="610px" height="340px">
+- Header Bussines Agency (maquetación CSS para Desktop, no responsive).<img src="assets/header_bussines_agency.jpg" alt="Bussines Agency" width="610px" height="340px">
 - Header Creative Agency(maquetación CSS para Desktop, no responsive).<img src="assets/creative_agency.jpg" alt="Creative Agency" width="610px" height="340px">
 - Header Coworking Space (maquetación CSS para Desktop, no responsive).<img src="assets/coworking_space.jpg" alt="Coworking Space" width="610px" height="340px">
 - Header NFT Marketplace (maquetación CSS para Desktop, no responsive).<img src="assets/NFT_marketplace.jpg" alt="NFT Marketplace" width="610px" height="340px">
