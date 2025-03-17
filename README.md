@@ -21,7 +21,10 @@
   # Mis pages | My pages
   - Spa & Beauty\
     <img src="assets/Spa&Beauty.jpg" alt="Spa&Beauty" width="610px" height="340px">\
-    [View-->Spa&Beauty](https://dclair.github.io/CSS_spa-beauty/)     
+    [View->Spa&Beauty](https://dclair.github.io/CSS_spa-beauty/)     
+  - Gathsession\
+    <img src="assets/gathsession.png" alt="Gathsession" width="610px" height="340px">\
+    [View->Gathsession](https://dclair.github.io/CSS_Header-Gathsession/)
   - .
 
 <!--
