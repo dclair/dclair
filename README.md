@@ -15,16 +15,20 @@
 - Header Elearning Landing Page | Smartphone (maquetación CSS RESPONSIVE).  
    <img src="assets/Elearning_land_page_smartphone.jpg" alt="Elearning Land Page Mobile" width="110px" height="750px">
 - Header Elearning Landing Page | Tablet (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Tablet ](assets/Elearning_land_page_tablet.jpg)
-- Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Desktop ](assets/Elearning_land_page_Desktop.jpg)
-  
+- Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Desktop ](assets/Elearning_land_page_Desktop.jpg)  
 
   # Mis pages | My pages
   - Spa & Beauty\
     <img src="assets/Spa&Beauty.jpg" alt="Spa&Beauty" width="610px" height="340px">\
-    [View->Spa&Beauty](https://dclair.github.io/CSS_spa-beauty/)     
+    [View-> Spa&Beauty](https://dclair.github.io/CSS_spa-beauty/)     
   - Gathsession\
     <img src="assets/gathsession.png" alt="Gathsession" width="610px" height="340px">\
-    [View->Gathsession](https://dclair.github.io/CSS_Header-Gathsession/)
+    [View-> Gathsession](https://dclair.github.io/CSS_Header-Gathsession/)
+  - Microsite Modern Art Gallery\
+   Proyecto con dos páginas (index.html y location.html) responsive y tres vistas, Mobile First, Tablet y Desktop, resolución a 1440px (no se adapta bien a grandes o muy grandes monitores, como los de 37").\
+    [View-> Modern Art Gallery](https://dclair.github.io/Microsite-Modern-Art-Gallery/)\
+  <img src="modern_art_galley1.png" alt="Modern Art Gallery" width="410px" height="740px">\
+  <img src="modern_art_gallery2.png" alt="Modern Art Gallery" width="410px" height="400px">
   - .
 
 <!--
