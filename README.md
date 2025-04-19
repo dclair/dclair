@@ -28,9 +28,13 @@
    Proyecto con dos páginas (index.html y location.html) responsive y tres vistas, Mobile First, Tablet y Desktop (resolución a 1440px).\
     [View-> Modern Art Gallery](https://dclair.github.io/Microsite-Modern-Art-Gallery/)
   <img src="assets/modern_art_galley1.png" alt="Modern Art Gallery" width="410px" height="740px">
-  <img src="assets/modern_art_gallery2.png" alt="Modern Art Gallery" width="410px" height="400px">  
-  
-
+  <img src="assets/modern_art_gallery2.png" alt="Modern Art Gallery" width="410px" height="400px">
+- Portfolio\
+  Proyecto responsive, una sola página, con tres vistas, Mobile First, Tablet y Desktop (ésta última, resolución a 1440px).\
+  [View-> Portfolio](https://dclair.github.io/Portfolio/)\
+  <img src="assets/portfolio_mobile_view.png" alt="Portfolio Mobile image">
+  <img src="assets/portfolio_tablet_view.png" alt="Portfolio Tablet image">
+   <img src="assets/portfolio_desktop_view.png" alt="Portfolio Desktop image">
 <!--
 **dclair/dclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
