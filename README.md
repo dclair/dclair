@@ -18,23 +18,27 @@
 - Header Elearning Landing Page | Desktop (maquetación CSS RESPONSIVE).![Header Elearning Landing Page | Desktop ](assets/Elearning_land_page_Desktop.jpg)  
 
   # Mis pages | My pages
-  - Spa & Beauty\
+  - ## Spa & Beauty
     <img src="assets/Spa&Beauty.jpg" alt="Spa&Beauty" width="610px" height="340px">\
     [View-> Spa&Beauty](https://dclair.github.io/CSS_spa-beauty/)     
-  - Gathsession\
+  - ##  Gathsession
     <img src="assets/gathsession.png" alt="Gathsession" width="610px" height="340px">\
     [View-> Gathsession](https://dclair.github.io/CSS_Header-Gathsession/)
-  - Microsite Modern Art Gallery\
+  - ##  Microsite Modern Art Gallery
    Proyecto con dos páginas (index.html y location.html) responsive y tres vistas, Mobile First, Tablet y Desktop (resolución a 1440px).\
     [View-> Modern Art Gallery](https://dclair.github.io/Microsite-Modern-Art-Gallery/)
   <img src="assets/modern_art_galley1.png" alt="Modern Art Gallery" width="410px" height="740px">
   <img src="assets/modern_art_gallery2.png" alt="Modern Art Gallery" width="410px" height="400px">
-- Portfolio\
+  - ##  Portfolio
   Proyecto responsive, una sola página, con tres vistas, Mobile First, Tablet y Desktop (ésta última, resolución a 1440px).\
   [View-> Portfolio](https://dclair.github.io/Portfolio/)\
   <img src="assets/portfolio_mobile_view.png" alt="Portfolio Mobile image">
   <img src="assets/portfolio_tablet_view.png" alt="Portfolio Tablet image">
    <img src="assets/portfolio_desktop_view.png" alt="Portfolio Desktop image">
+- ## Conquer Academy
+  Proyecto responsive, simula una web estática de una posible academia, consta de las principales secciones habituales en un proyecto de este tipo (home, contacto, registro, login, blog...). Desarrollada con Bootstrap\
+  [View-> Conquer Academy](https://dclair.github.io/conquer_academy/)\
+  <img src="assets/conquer_academy.png" alt="Conquer Academy image">
 <!--
 **dclair/dclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
